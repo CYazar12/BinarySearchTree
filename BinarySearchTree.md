@@ -7,17 +7,19 @@
    Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 llk olarak 7 rakamından başlayorum , bunun Root  olduğunu düşünüyorum.. Ardınan ikinci rakama (5) geçiyorum. İkinci rakam, ilk rakam olan 7' ye bagli olacak yani Child Node olacak. 5 7' den küçük bir rakam. Bu sebepten onu sol alt tarafa aldim.
-    7
-
-5
+                                                   7
+                                                /
+                                             5
 
 3.ncü rakamımız ise 1 Root Node ile karşılaştırdığımızda ondan kücük olduğunu görüyoruz. Bu yüzden onu 7nin sol alt node' u olacak  orda ama  5 var  burda yine bir karsilastirma yapiyoruz. 1  5‘ den kücük dolayisila  5 in bir alt sol node olacak .
+
 
                                  7
                                  /
                                5
                                /
                             1   
+                            
                      
 4. rakamimiz 8  ve 8 7’den büyük  dolayisiyla 7’nin saginda  yer alacak.
                                         7
