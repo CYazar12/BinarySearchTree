@@ -43,9 +43,12 @@ llk olarak 7 rakamından başlayorum , bunun Root  olduğunu düşünüyorum.. A
 
 6. rakamimiz 6 
 Root dan kücük dolayisiyla agacin sol tarafinda , 5 den büyük  5 node nun sag  alt node na yerlesek
+                                                
                                                    7
+                                                   
                                                   /  \              
-                                               5        8
+                                               5          8
+                                                                        
                                               /  \
                                             1      6
                                               \
