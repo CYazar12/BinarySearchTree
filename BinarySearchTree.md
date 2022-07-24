@@ -24,9 +24,10 @@ llk olarak 7 rakamından başlayorum , bunun Root  olduğunu düşünüyorum.. A
                             
                      
 4. rakamimiz 8  ve 8 7’den büyük  dolayisiyla 7’nin saginda  yer alacak.
-                                        7
-                                        /\
-                                      5    8
+                            
+                                         7
+                                        /  \
+                                      5       8
                                       /
                                     1
 5. rakamimiz 3
